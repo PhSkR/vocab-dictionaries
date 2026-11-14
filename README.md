@@ -20,10 +20,10 @@ generated; please do not edit them by hand.
 | es | full | 2026111300 | es-full-v2026111300.sqlite.gz | 25097487 |
 | fr | common | 2026111300 | fr-common-v2026111300.sqlite.gz | 6365732 |
 | fr | full | 2026111300 | fr-full-v2026111300.sqlite.gz | 22612797 |
-| ja | common | 2026111300 | ja-common-v2026111300.sqlite.gz | 4790481 |
-| ja | full | 2026111300 | ja-full-v2026111300.sqlite.gz | 37232847 |
-| zh | common | 2026111300 | zh-common-v2026111300.sqlite.gz | 5067516 |
-| zh | full | 2026111300 | zh-full-v2026111300.sqlite.gz | 26898954 |
+| ja | common | 2026111400 | ja-common-v2026111400.sqlite.gz | 5362227 |
+| ja | full | 2026111400 | ja-full-v2026111400.sqlite.gz | 39035686 |
+| zh | common | 2026111400 | zh-common-v2026111400.sqlite.gz | 5745237 |
+| zh | full | 2026111400 | zh-full-v2026111400.sqlite.gz | 28247487 |
 
 ## Licence
 
