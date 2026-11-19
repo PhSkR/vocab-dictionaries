@@ -20,8 +20,8 @@ generated; please do not edit them by hand.
 | es | full | 2026111300 | es-full-v2026111300.sqlite.gz | 25097487 |
 | fr | common | 2026111300 | fr-common-v2026111300.sqlite.gz | 6365732 |
 | fr | full | 2026111300 | fr-full-v2026111300.sqlite.gz | 22612797 |
-| ja | common | 2026111400 | ja-common-v2026111400.sqlite.gz | 5362227 |
-| ja | full | 2026111400 | ja-full-v2026111400.sqlite.gz | 39035686 |
+| ja | common | 2026111900 | ja-common-v2026111900.sqlite.gz | 5465518 |
+| ja | full | 2026111900 | ja-full-v2026111900.sqlite.gz | 39353594 |
 | zh | common | 2026111400 | zh-common-v2026111400.sqlite.gz | 5745237 |
 | zh | full | 2026111400 | zh-full-v2026111400.sqlite.gz | 28247487 |
 
